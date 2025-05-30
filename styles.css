@@ -1,37 +1,44 @@
+/* Regla para el body: familia de fuentes y tamaño de fuente */
 body {
   font-family: Arial, sans-serif;
   font-size: 16px;
 }
 
+/* Regla para el header: color de fondo */
 header {
-  background-color: #4CAF50;
+  background-color: #e0f7fa;
 }
 
+/* Regla para el nav: color de fondo */
 nav {
-  background-color: #333;
+  background-color: #b2ebf2;
 }
 
+/* Regla para el main: color de fondo y tamaño de fuente */
 main {
-  background-color: #f4f4f4;
-  font-size: 18px;
+  background-color: #f1f8e9;
+  font-size: 1.1em;
 }
 
+/* Regla para el footer: color de fondo */
 footer {
-  background-color: #222;
-  color: white;
+  background-color: #c8e6c9;
 }
 
+/* Regla para los li: visualización y anchura */
 li {
   display: inline-block;
-  width: 120px;
+  width: 150px;
 }
 
+/* Regla para h1: alineación, familia de fuente y color */
 h1 {
   text-align: center;
   font-family: 'Georgia', serif;
-  color: #2c3e50;
+  color: #00796b;
 }
 
+/* Regla para p: altura de línea */
 p {
   line-height: 1.6;
 }
